@@ -1,0 +1,18 @@
+site_name: Market Monitoring Analysis System - Functional Requirements Document (FRD)
+site_description:
+site_author: Eric Charles Grasby (echarlesgrasby)
+repo_url: https://github.com/echarlesgrasby/delphi-software-requirements-modeling
+
+theme:
+    name: material
+    feautres:
+        - navigation.sections
+        - navigation.expand
+
+nav:
+    - Home: index.md
+    - Requirements:
+        - Overview: requirements/overview.md
+        - Functional Requirements: requirements/functional.md
+        - Non-Functional Requirements: requirements/nonfunctional.md
+    - Methodology: methodology.md
