@@ -2,6 +2,15 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+## Citation
+
+The initial templates for each of the pages in this site were generated with ChatGPT. 
+The researcher used these templates as a starting point and filled in all relevant data himself.
+
+```
+OpenAI. (2025). Requirements document templates generated with ChatGPT (GPT-5). Retrieved September 17, 2025, from https://chat.openai.com/
+```
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
